@@ -1,6 +1,12 @@
+/* reset margin, padding */
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .banner {
     border: 1px solid red;
     height: 500px;
     width: 500px;
-    background-image: url('banner.jpg');
+    background-image: url('./banner.jpg');
 }
