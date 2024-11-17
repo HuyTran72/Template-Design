@@ -6,7 +6,8 @@ body {
 
 .banner {
     border: 1px solid red;
-    height: 500px;
-    width: 500px;
+    height: 100px;
+    width: 100%;
     background-image: url('./banner.jpg');
+    background-position: center;background-repeat: no-repeat;
 }
