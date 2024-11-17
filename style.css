@@ -4,10 +4,22 @@ body {
     padding: 0;
 }
 
-.banner {
+.red {
     border: 1px solid red;
-    height: 100px;
-    width: 100%;
+}
+.green {
+    border: 1px solid green;
+}
+
+.banner {
+    height: 500px;
     background-image: url('./banner.jpg');
-    background-position: center;background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.about-signin {
+    height: 80px;
+    width: 100%;
+    padding: 20px;
 }
