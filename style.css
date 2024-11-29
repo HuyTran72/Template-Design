@@ -13,10 +13,10 @@ body {
 
 .banner {
     height: 500px;
-    background-image: url('./banner.jpg') center center no-repeat;
+    background: url('./banner.jpg') center center no-repeat;
 }
 
-.about-signin {
+.about-sign-in {
     height: 80px;
     width: 100%;
     text-align: right;
