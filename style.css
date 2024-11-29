@@ -23,16 +23,16 @@ body {
     text-align: right;
 }
 
-.sign-in {
-    margin-right: 60px;
-    margin-left: 20px;
-    text-transform: uppercase;
-}
-
 .about, 
 .sign-in {
     text-decoration: none;
     padding: 7px;
     margin-top: 20px;
     display: inline-block;
+}
+
+.sign-in {
+    margin-right: 60px;
+    margin-left: 20px;
+    text-transform: uppercase;
 }
