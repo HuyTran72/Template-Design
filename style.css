@@ -34,5 +34,7 @@ body {
 
 .sign-in {
     margin-right: 60px;
-    margin-left: 20px;
+    margin-left: 25px;
+    border: 1px solid green;
+    border-radius: 20px;
 }
