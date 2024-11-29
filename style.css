@@ -1,7 +1,7 @@
 /* reset margin, padding */
 body {
-    margin: 0;
-    padding: 0;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 .red {
@@ -12,7 +12,7 @@ body {
 }
 
 .banner {
-    height: 500px;
+    height: 1000px;
     background-image: url('./banner.jpg');
     background-position: center;
     background-repeat: no-repeat;
