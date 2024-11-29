@@ -21,7 +21,7 @@ body {
 .about-signin {
     height: 80px;
     width: 100%;
-    padding: 20px;
+    text-align: right;
 }
 
 .about, .sign-in {
