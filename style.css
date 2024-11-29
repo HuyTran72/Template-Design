@@ -29,10 +29,10 @@ body {
     padding: 7px;
     margin-top: 20px;
     display: inline-block;
+    text-transform: uppercase;
 }
 
 .sign-in {
     margin-right: 60px;
     margin-left: 20px;
-    text-transform: uppercase;
 }
